@@ -1,5 +1,5 @@
 Name:		sipsak
-Version: 	0.9.7pre
+Version: 	0.9.8.1
 Release:	1.0
 License: 	GPL
 Group: 		Multimedia
