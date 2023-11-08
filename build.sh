@@ -8,7 +8,7 @@ cd /sipsak
 autoreconf -vfi
 ./configure
 make dist
-mv sipsak-0.9.8.1.tar.gz ~/rpmbuild/SOURCES
+mv sipsak-0.9.9-pre.tar.gz ~/rpmbuild/SOURCES/
 mv /sipsak.spec ~/rpmbuild/SPEC
 cd ~/rpmbuild
 rpmbuild -ba SPEC/sipsak.spec 
